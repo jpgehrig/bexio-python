@@ -1,0 +1,5 @@
+*.pyc
+*.DS_Store
+*.venv*
+out/
+bexio_python.egg-info/

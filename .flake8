@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 150
+per-file-ignores = data.py:E501
+exclude = .git,.github,.venv
